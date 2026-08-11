@@ -23,7 +23,7 @@ The folder must contain `SKILL.md`.
 ## Example Prompts
 
 ```text
-照片转等轴测图
+照片转等轴测图（多图会提问是否需要拼接）
 ```
 
 ```text
